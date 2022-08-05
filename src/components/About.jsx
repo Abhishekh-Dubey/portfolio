@@ -22,7 +22,7 @@ function About() {
               <p className="about__text p__color">I am a Full-stack developer with a good knowledge 
               of JavaScript, HTML, CSS, React and Node. Looking for a challenging work environment where I can develop a deeper understanding of web development.
               </p>
-              
+              hi
               <div className="about__button d__flex align__items__center">
                 <a href="https://drive.google.com/file/d/1gKMeR3CH1EoFgCTcLpU42oj8Xzv8_RRP/view?usp=sharing">
                   <button className="about btn pointer">Resume</button>
