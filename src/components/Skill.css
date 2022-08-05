@@ -17,7 +17,6 @@
     grid-gap: 8%;
     color: rgb(21, 113, 141);
     
-    
 }
 
 
@@ -76,16 +75,18 @@
     height: 80%;
     margin-left: 5%;
 }
-.center {
+.center12 {
     margin: auto;
     width: 60%;
-    padding: 10px;
-  }
-.skill-1{
-    border: 1px solid rgb(95, 122, 172);
+    padding-top: 10px;
     text-align: center;
-    padding: 0%;
-    border-radius: 15px;
+  }
+.skill-134{
+    /* border: 1px solid rgb(95, 122, 172); */
+    text-align: center;
+    /* padding: -10%; */
+    /* border-radius: 15px; */
+    /* width: 90px; */
     
     
 }
