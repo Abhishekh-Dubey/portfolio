@@ -1,0 +1,89 @@
+.skill{
+    background-color: #52515196;
+    height: 100%;
+}
+.skill_text{
+    text-align: center;
+    margin-bottom: 5%;
+    font-weight: 700;
+    font-family: Montserrat,sans-serif;
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+}
+.flax-box{
+    display: grid;
+    margin-left: 12%;
+    grid-template-columns: 15% 15% 15% 15%;
+    grid-gap: 8%;
+    color: rgb(21, 113, 141);
+    
+}
+
+.skill-text{
+    border: 1px solid rgb(95, 122, 172);
+    text-align: center;
+    padding: 0%;
+    border-radius: 15px;
+    background-color: rgb(247, 248, 248);
+    /* opacity: 1; */
+}
+.skill-text:hover{
+    background-color: rgb(91, 155, 148);
+    transition: 1s all ease;
+    opacity: 1;
+}
+
+@media only screen and (max-width: 768px){
+    .skill-text{
+        border: 1px solid rgb(95, 122, 172);
+        text-align: center;
+        padding: 10%;
+        border-radius: 10px;
+        
+    }
+    .skill-text:hover{
+        background-color: rgb(91, 155, 148);
+        transition: 1s all ease;
+        opacity: 1;
+    } 
+}
+@media only screen and (max-width: 425px){
+    .skill-text{
+        border: 1px solid rgb(250, 251, 253);
+        text-align: center;
+        /* padding: 5%; */
+        border-radius: 10px;
+        
+    }
+    .skill-text:hover{
+        background-color: rgb(249, 253, 253);
+        transition: 1s all ease;
+        opacity: 1;
+    } 
+    .flax-box{
+        grid-template-columns: 40% 40%;
+    }
+}
+.myimg{
+    width: 50%;
+    height: 60%;
+    margin-left: 5%;
+}
+.myimg1{
+    width: 50%;
+    height: 80%;
+    margin-left: 5%;
+}
+.center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+  }
+.skill-1{
+    border: 1px solid rgb(95, 122, 172);
+    text-align: center;
+    padding: 0%;
+    border-radius: 15px;
+    
+    
+}
