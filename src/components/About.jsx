@@ -24,10 +24,10 @@ function About() {
               </p>
               
               <div className="about__button d__flex align__items__center">
-                <a href="https://drive.google.com/file/d/1XrgF98mki7GRzCOawmdfdVhkgLxRZRwL/view?usp=sharing">
+                <a href="https://drive.google.com/file/d/1gKMeR3CH1EoFgCTcLpU42oj8Xzv8_RRP/view?usp=sharing">
                   <button className="about btn pointer">Resume</button>
                 </a>
-                <a href="https://drive.google.com/file/d/1gplFE_XaCbM26-TbIpddqBvNToRcZmGa/view?usp=sharing">
+                <a href="https://drive.google.com/file/d/16xqQUZoCe5Z_cf2972Nl95_JwO5023vy/view?usp=sharing">
                   <button className="about btn pointer">Certificate</button>
                 </a>
               </div>
