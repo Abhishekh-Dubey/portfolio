@@ -13,7 +13,7 @@ export default function Skill() {
     return (
         <div className="skill component__space" id="Skill">
             <div className="skill_text">My Skills</div>
-            <div className="flax-box">
+            <div className="flax-box contn">
                 
                 <div className="box">
                 <p className="skill-text"><img src={mypic} alt="" className="myimg1"/></p>
