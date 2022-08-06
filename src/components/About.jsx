@@ -24,7 +24,7 @@ function About() {
               </p>
               
               <div className="about__button d__flex align__items__center">
-                <a href="">
+                <a href="https://drive.google.com/file/d/1CvDN9Va-CInVhp8Q44QmMPN81KSxkISw/view?usp=sharing">
                   <button className="about btn pointer">Resume</button>
                 </a>
                 <a href="https://drive.google.com/file/d/16xqQUZoCe5Z_cf2972Nl95_JwO5023vy/view?usp=sharing">
