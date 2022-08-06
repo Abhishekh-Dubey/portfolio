@@ -20,7 +20,7 @@ function About() {
             <h1 className="about__heading">About Me</h1>
             <div className="about__meta">
               <p className="about__text p__color">I am a Full-stack developer with a good knowledge 
-              of JavaScript, HTML, CSS, React and Node. Looking for a challenging work environment where I can develop a deeper understanding of web development.
+              of JavaScript, HTML, CSS, ReactJS and NodeJS. Looking for a challenging work environment where I can develop a deeper understanding of web development.
               </p>
               
               <div className="about__button d__flex align__items__center">
