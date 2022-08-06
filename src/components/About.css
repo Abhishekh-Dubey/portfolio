@@ -26,6 +26,7 @@ button.about.btn.pointer {
 }
 .about__button{
     padding: 20px 0px;
+    align-items: center;
 }
 a.bottom__to__top{
     height: 40px;
