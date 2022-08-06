@@ -23,13 +23,14 @@ li.nav__items{
     margin-left: 0.6%;
 }
 h1.home__text{
-    margin-left:25%;
+    /* margin-left:25%; */
     font-size: 25px;
     font-weight: 100;
     line-height: 50px;
     font-family: Montserrat,sans-serif;
     letter-spacing: 3px;
     color: rgba(198,201,216,.75)!important;
+    text-align: center;
 }
 h2.home__text{
     font-size: 50px;
@@ -43,8 +44,8 @@ h3.home__text{
     line-height: 50px;
     font-weight: 800;
     font-family: Montserrat,sans-serif;
-    padding-left: 95px;
-    /* margin-left:1% */
+    /* padding-left: 95px; */
+    text-align: center;    /* margin-left:1% */
 }
 /* div.home__text{
     font-size: 50px;
@@ -59,7 +60,8 @@ div.home__text{
     font-family: Montserrat,sans-serif;
     /* color: red; */
     color: rgba(198,201,216,.75)!important;
-    padding-left: 77px;
+    /* padding-left: 77px; */
+    text-align: center;
 }
 .header{
     transition: .4s all ease;
@@ -127,9 +129,7 @@ svg.bi.bi-justify.white.pointer {
 h3.sweet.pz__10 {
     font-size: 40px;
 }
-h1.home__text {
-    font-size: 14px;
-}
+
 h4.home__text {
     font-size: 45px;
 }
@@ -137,15 +137,16 @@ h4.home__text {
 .col__22 {
     max-width: 50%;
     display: flex;
-    padding: 20px;
+    /* padding: 20px; */
     justify-content: center;
     flex-direction: column;
-    margin-left: 5%;
+    /* margin-left: 5%; */
+    text-align: center;
     
   }
 
   .abhi_home{
-    
+    text-align: center;
     margin-bottom: 90px;
     /* margin-top: 20px; */
 }
