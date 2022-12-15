@@ -1,0 +1,135 @@
+.maincontaineBrand1{
+    margin: 3% 20% 1.4% 20%;
+    background-color: #f4eeee6e;
+    padding: 40px;
+    margin-left: 21vw;
+    width: 55vw;
+    border-radius: 30px;
+    height: 55vh;
+    box-shadow: 17px 20px 17px #000000;
+}
+
+.gridMaincontaineBrand1{
+ display: grid;
+    grid-template-columns: auto auto auto ;
+ 
+    
+    grid-gap: 8px;
+   
+}
+.MainBackground{
+    background-image: url('../../images/ricardo.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: -20px -20px -20px -20px;
+    padding-bottom: 20.1vh;
+    padding-top: 1%;
+
+  } 
+
+.brandgrid1{
+
+width: 10vw;
+grid-column: 1/2;
+grid-row: 1/3;
+height: 100%;
+width: 100%;
+}
+.brandgrid2{
+    width: 100%;
+    grid-column: 2/4;
+}
+.brandgrid3{
+    color:  rgb(91, 86, 86);
+  
+    grid-column: 2/4;
+    width: 100%;
+    margin-top: -1%;
+}
+
+
+.brandgrid4{
+    width: 10vw;
+    grid-column: 1/2;
+    grid-row: 3/5;
+}
+.brandgrid5{
+    width: 10vw;
+    grid-column: 2/4;
+    display: flex;
+    flex-wrap: wrap;
+width: 100%;
+}
+
+
+.brandgrid6{
+    width: 100%;
+    grid-column: 2/4;
+    color:  rgb(91, 86, 86);
+    margin-top: -1%;
+}
+.brandgrid7{
+    width: 10vw;
+    grid-column: 1/2;
+    grid-row: 5/7;
+}
+
+.brandgrid8{
+    width: 10vw;
+    grid-column: 2/4;
+}
+.brandgrid9{
+    color:  rgb(91, 86, 86);
+    grid-column: 2/4;
+    margin-top: -1%;
+    width: 100%;
+}
+.brandgrid10{
+    width: 10vw;
+    grid-column: 1/2;
+    grid-row: 7/9;
+}
+.brandgrid11{
+   
+    grid-column: 2/4;
+}
+.brandgrid12{
+    width: 100%;
+    grid-column: 2/4;
+    color:  rgb(91, 86, 86);
+    margin-top: -1%;
+}
+.brandgrid13{
+   
+ 
+margin-left: 12%;
+}
+.brandgrid14{
+   margin-left: -23%;
+}
+.brandgrid15{
+    margin-right: 12%;
+    text-align: right;
+}
+.button21 {
+    width: auto;
+    padding: 10px 25px;
+    background-color: blue;
+    border-radius: 9px;
+    margin-left: 18%;
+}
+.button22 {
+    width: auto;
+    padding: 10px 15px;
+    background-color: blue;
+    border-radius: 9px;
+    margin-left: 18%;
+}
+
+.cancelbtn1 {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+    border-radius: 9px;
+}

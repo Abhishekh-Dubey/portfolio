@@ -1,0 +1,135 @@
+.BackgroundImageContainer{
+background-image:  url('../../images/ricardo.jpg');
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+margin: -43px -20px -20px -20px;
+height: 92.5vh;
+padding-bottom: 16.1%;
+
+}
+
+.GroupContainer{
+  width: 70%;
+    margin-top: 1%;
+    padding: 17px;
+    background-color: whitesmoke;
+    border-radius: 17px;
+    box-shadow: 2px 4px 9px black, -2px -2px 9px black;
+    margin-left: 15%;
+}
+
+.group{
+    color: #000000b0;
+    text-align: center;
+    margin-top: 23px;
+}
+form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 40%;
+    background: #f1f1f1;
+    margin-left: 25%;
+    margin-right: 1%;
+   
+
+  }
+
+  form.example button {
+    float: left;
+    width: 8%;
+   
+    margin: 0%;
+    padding: 10px;
+    background: #2196F3;
+    color: white;
+    font-size: 17px;
+    cursor: pointer;
+  }
+  
+  form.example button:hover {
+    background: #0b7dda;
+  }
+  
+  form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+ 
+  .ActionContainer{
+    font-size: 20px;
+    margin-left: 0%;
+    margin-top: 3%;
+    background-color: #a8cbe500;
+    /* border-radius: 17px; */
+    /* box-shadow: 0px 2px 2px black; */
+    padding-left: 26%;
+    padding-top: 19px;
+    /* margin-right: -1%; */
+    padding-bottom: 1%;
+  }
+
+  .abc{
+    
+    
+   
+   border-radius: 10px;
+    
+    padding: 10px;
+    background: #2196F3;
+    color: white;
+    font-size: 17px;
+    cursor: pointer;
+  }
+  .adb{
+    padding: 8px;
+    font-size: 17px;
+    border: 1px solid grey;
+    margin-left: 1%;
+    width: 49%;
+    background: #f1f1f1;
+  
+    margin-right: 2%;
+  }
+
+  .GroupsBlock{
+    font-size: 22px;
+    margin-left: 0%;
+    background-color: whitesmoke;
+    box-shadow: 0px 2px 2px whitesmoke;
+    padding-left: 1%;
+    padding-top: 19px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    padding-bottom: 1%;
+  }
+  
+
+  .DefaultBlock{
+    font-size: 22px;
+    margin-left: 0%;
+   
+    background-color: white;
+   
+    padding-left: 1%;
+    padding-top: 19px;
+   
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    padding-bottom: 1%;
+
+  }
+  
+
+  .FullBlock{
+    width: 95%;
+    margin-left: 2.5%;
+    padding-bottom: 20%;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 12px; 
+    height: 41vh;
+  }

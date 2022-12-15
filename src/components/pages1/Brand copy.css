@@ -1,0 +1,59 @@
+.content h1, .content h2, .content h3, .content h4, .content h5 {
+    padding-top: 4px;
+    margin-top: 0;
+}
+.admin-area h1 {
+    margin: 0 0 20px;
+    font-weight: 300;
+    font-size: 20px;
+    color: #666;
+}
+.admin-area .content-main {
+    float: left;
+    width: 100%;
+}
+.admin-area .module {
+    border: none;
+    margin-bottom: 30px;
+    background: #fff;
+}
+.admin-area .module table {
+    border-collapse: collapse;
+}
+.admin-area table {
+    border-collapse: collapse;
+    border-color: #ccc;
+}
+table {
+    background-color: transparent;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.admin-area .inline-group h2, .admin-area .module caption {
+    font-size: 12px;
+    letter-spacing: .5px;
+    text-transform: uppercase;
+}
+.admin-area .inline-group h2, .admin-area .module caption, .admin-area .module h2 {
+    margin: 0;
+    padding: 8px;
+    font-weight: 400;
+    font-size: 13px;
+    text-align: left;
+    background: #18bc9c;
+    color: #fff;
+}
+
+caption {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: #b4bcc2;
+    text-align: left;
+}
+
+.admin-area a.section:visited {
+    color: #fff;
+    text-decoration: none;
+}

@@ -1,0 +1,146 @@
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 30px;
+    text-align: center;
+  }
+  .HeaderText{
+    background-color: #b4b6b9;
+        font-size: 82%;
+    /* width: 100%; */
+    padding-left: 10%;
+    padding-right: 10%;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    text-shadow: 3px 3px 3px #ffffff, -1px 0 5px rgb(255, 255, 255);
+}
+.Text1{
+    margin-top: 2% ;
+    
+        font-size: 60%;
+    /* width: 100%; */
+    padding-left: 10%;
+    padding-right: 10%;
+    color: rgba(0, 0, 0, 0.531);
+    text-align: center;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    text-shadow: 3px 3px 3px #ffffff, -1px 0 5px rgb(255, 255, 255);
+}
+.flex-container1 {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 30px;
+    text-align: center;
+}
+.flex-item-left1 {
+  
+    flex:10%;
+    
+}
+.flex-item-right1 {
+    padding-top: 0%;
+    margin-top: 0%;
+    flex: 90% 1;
+    padding-left: 1%;
+    text-align: left;
+}
+
+.DragAndDropOuterContainer{
+  width: 100%;
+  height: 61vh;
+  background-color: #b4b6b9;
+  margin-top: 2%;
+  padding: 2%;
+}
+.DragAndDropInnerContainer{
+  width: 100%;
+  height: 58vh;
+  background-color: #dee0e2;
+  border-radius: 10px;
+  padding: 1%;
+ 
+}
+
+.Text2{
+   
+    max-height: 10%;
+}
+.cant123{
+    width: 100%;
+    float: left;
+}
+.BackgroundText{
+    background-color: #b4b6b9;
+}
+.MenuImage{
+    text-align: left;
+    max-width: 10%;
+}
+    
+  
+@media (min-width: 800px) {
+
+  .flex-item-left {
+    background-color: #f1f1f1;
+    padding: 10px;
+    flex:35%;
+    height: 90vh;
+  }
+  .flex-item-right {
+    background-color: #b4b6b9;
+    padding: 8px;
+    flex: 60% ;
+    height: 90vh;  }
+  .Map{
+    max-width: 60.5vw;
+    
+      max-height: 87vh;
+      overflow-x: hidden;
+      
+      overflow-y: hidden;
+    
+    }
+    .containerStyle{
+        max-width: 60.5vw;
+        max-height: 87vh;
+    };
+
+    
+}
+
+
+    
+  
+  @media (max-width: 800px) {
+     .flex-item-left {
+      flex: 100%;
+      
+    }
+    .flex-item-right {
+        background-color: #b4b6b9;
+        padding: 8px;
+        flex: 100%;
+        max-width: 100vw;
+        height: 92.4vh; 
+       
+    }
+    .Map{
+            max-width: 98vw;
+            
+              max-height: 90vh;
+              overflow-x: hidden;
+              
+              overflow-y: hidden;
+            
+        }
+    .containerStyle{
+            max-width: 98vw;
+            max-height: 90vh;
+        };
+  }
+
+

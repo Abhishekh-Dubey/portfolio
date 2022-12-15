@@ -1,0 +1,87 @@
+.pluginContainer{
+    
+    background-color:#f4eeee6e;
+    padding: 18px;
+    margin-left: 6vw;
+    width: 85vw;
+    border-radius: 17px;
+
+    box-shadow: 17px 20px 17px #000000 ;
+}
+
+
+.pluginBackground{
+    background-image: url('../../images/ricardo.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: -20px -20px -20px -20px;
+    padding-bottom: 1.3vh;
+    padding-top: 1%;
+
+}
+.headmp{ 
+  color: #000000b0;
+  text-align: center;
+  font-size: 140%;
+  margin-top: -1%;
+} 
+
+#customers1 {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 30px;
+   
+
+    /* text-align: center; */
+  }
+  
+  #customers1 td, #customers1 th {
+    border: 1px solid #ddd;
+    padding: 7px;
+    font-size: 66%;
+  }
+  
+  #customers1 tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #customers1 tr:hover {background-color: #ddd;}
+  
+  #customers1 th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+  }
+
+  .buttoncontainer{
+    display: flex;
+ 
+    width: 100%;
+    
+
+  }
+  .dis1{
+text-align: left;
+flex: 20%;
+margin-left: 1%;
+  }
+  .enb1{
+    text-align: left;
+ flex: 20%;
+ margin-left: 1%;
+  }
+
+  .button111 {
+    background-color: var(--primary);
+    color: rgb(255, 255, 255);
+    padding: 4px 5px 4px 5px;
+    margin: -5px 6px -3px -1px;
+    
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 10px;
+    font-size: 90%;
+}
