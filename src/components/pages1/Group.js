@@ -9,7 +9,7 @@ const Group = () => {
             
          <form class="example" action="/action_page.php"  >
          <input  type="text" placeholder="Search.." name="search2" required/>
-         <button  type="submit"><i class="fa fa-search"></i></button>
+         <button className='button1112 ' type="submit"><i class="fa fa-search"></i></button>
         </form>
         </div>
         <div className='ActionContainer'>

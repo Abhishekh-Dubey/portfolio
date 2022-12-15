@@ -36,6 +36,18 @@ form.example input[type=text] {
    
 
   }
+  .button1112 {
+    background-color: var(--primary);
+    color: rgb(255, 255, 255);
+    padding: 4px 5px 4px 5px;
+    margin: -5px 6px -3px -1px;
+    
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 10px;
+    font-size: 90%;
+}
 
   form.example button {
     float: left;
@@ -77,7 +89,7 @@ form.example input[type=text] {
     
    
    border-radius: 10px;
-    
+    border: none;
     padding: 10px;
     background: #2196F3;
     color: white;

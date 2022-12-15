@@ -53,3 +53,15 @@ padding: 5% 20% 5% 30%;
     width: 100%;
     border-radius: 10px;
 }
+.button1113 {
+  background-color: var(--primary);
+  color: rgb(255, 255, 255);
+  padding: 4px 5px 4px 5px;
+  margin: -5px 6px -3px -1px;
+  
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  border-radius: 10px;
+  font-size: 90%;
+}

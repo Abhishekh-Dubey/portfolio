@@ -15,7 +15,7 @@ return (<div className='admin1'><h1 className='AdministrationProfile'>Administra
   <div class="grid-item1">
   <div className='btn111'>
 <Link to="/Generalprofile">
-<button   className='button' >Edit</button>
+<button   className='button1113' >Edit</button>
 </Link>
 </div>
 </div>
@@ -28,7 +28,7 @@ return (<div className='admin1'><h1 className='AdministrationProfile'>Administra
   <div class="grid-item1">
   <div className='btn111'>
   <Link to="./SecurityandLoginSetting">
-<button   className='button' >Edit</button>
+<button   className='button1113' >Edit</button>
 </Link>
 </div>
 </div>
@@ -40,7 +40,7 @@ return (<div className='admin1'><h1 className='AdministrationProfile'>Administra
   <div className='btn111'>
   <Link to="./LanguageandRegionSetting">
   
-<button   className='button' >Edit</button>
+<button   className='button1113' >Edit</button>
 </Link>
 </div>
 </div>
@@ -52,7 +52,7 @@ return (<div className='admin1'><h1 className='AdministrationProfile'>Administra
   <div class="grid-item1">
   <div className='btn111'>
   <Link to="./BarChat">
-<button   className='button' >Edit</button>
+<button   className='button1113' >Edit</button>
 </Link>
 </div>
 </div>
