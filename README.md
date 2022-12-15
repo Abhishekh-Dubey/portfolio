@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# output
+![Capture1](https://user-images.githubusercontent.com/110678374/207795519-4a855756-41e0-47e3-aaa2-cf2fa422eb9f.JPG)
+![Capture2](https://user-images.githubusercontent.com/110678374/207795521-a6527b62-8245-4045-8243-00441407f96e.JPG)
+![Capture3](https://user-images.githubusercontent.com/110678374/207795523-aa7cd39d-e1f9-47aa-820f-a6eef24af9ae.JPG)
+![Capture4](https://user-images.githubusercontent.com/110678374/207795526-a6416370-4559-4196-aa69-e4853cc7ca74.JPG)
+![Capture5](https://user-images.githubusercontent.com/110678374/207795528-35233734-c029-4a7d-9ecf-c5c34a62df95.JPG)
+![Capture6](https://user-images.githubusercontent.com/110678374/207795536-6425583c-e82a-4b1a-84db-84f4600237ea.JPG)
+![Capture7](https://user-images.githubusercontent.com/110678374/207795513-e3464987-ca2d-4f26-b975-6319481aaad8.JPG)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -12,7 +22,8 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
-You will also see any lint errors in the console.
+You will also see any lint errors in the console.![Uploading Capture7.JPG…]()
+
 
 ### `npm test`
 
