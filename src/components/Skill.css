@@ -19,7 +19,6 @@
     
 }
 
-
 .skill-text{
     border: 1px solid rgb(95, 122, 172);
     text-align: center;
@@ -55,16 +54,11 @@
         /* padding: 5%; */
         border-radius: 10px;
         
-        
-    }
-    .contn{
-        margin-bottom: 24px;
     }
     .skill-text:hover{
         background-color: rgb(249, 253, 253);
         transition: 1s all ease;
         opacity: 1;
-        
     } 
     .flax-box{
         grid-template-columns: 40% 40%;
@@ -73,25 +67,23 @@
 .myimg{
     width: 50%;
     height: 60%;
-    text-align: center;
+    margin-left: 5%;
 }
 .myimg1{
     width: 50%;
     height: 80%;
-    text-align: center;
+    margin-left: 5%;
 }
-.center12 {
+.center {
     margin: auto;
     width: 60%;
-    padding-top: 10px;
-    text-align: center;
+    padding: 10px;
   }
-.skill-134{
-    /* border: 1px solid rgb(95, 122, 172); */
+.skill-1{
+    border: 1px solid rgb(95, 122, 172);
     text-align: center;
-    /* padding: -10%; */
-    /* border-radius: 15px; */
-    /* width: 90px; */
+    padding: 0%;
+    border-radius: 15px;
     
     
 }

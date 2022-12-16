@@ -24,7 +24,7 @@ function Contact() {
                         </p>
                         <div style={{marginLeft:"40%"}}>
                             {/* hear we have give github link  */}
-                        <a href="https://github.com/Abhishekh-Dubey">
+                        <a href="">
                             <img
                                 src={gitlogo}
                                 alt="no-img"

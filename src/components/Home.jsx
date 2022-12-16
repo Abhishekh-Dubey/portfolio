@@ -88,7 +88,7 @@ function Home() {
               <div className="home__text sweet pz__10">I love designing and building websites.</div>
             </div>
           </div>
-          <div className="col__2">
+          <div className="col__22">
             <div class="img__abhi">
               <img src={mypic} alt="" className="myimg"/>
               </div>
